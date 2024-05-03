@@ -1,6 +1,3 @@
-/* COP 4338: Programming Assignment 5
-   Name: Elizabeth Fassler */
-
 #include <unistd.h>
 #include "solve.h"
 
