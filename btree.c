@@ -1,6 +1,3 @@
-/* COP 4338: Programming Assignment 5
-   Name: Elizabeth Fassler */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
