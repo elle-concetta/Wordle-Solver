@@ -1,6 +1,3 @@
-/* COP 4338: Programming Assignment 5
-   Name: Elizabeth Fassler */
-
 #include "solve.h"
 
 hashset set_init() {
